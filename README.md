@@ -13,3 +13,4 @@ Passo a passo utilizado:
 5 - Os arquivos foram adicionados em pastas para melhor organização dos dados e para conseguir chegar ao mínimo de 5 commits por ramo; 
 5.1 - Os commits foram feitos usando a sequência: **git status**, **git add .**, **git commit -m "mensagem"** e **git push origin ramo**;
 6 - Após todos os commits serem feitos a um ramo, foi utilizado o comando **git checkout nome_do_outro_ramo** para alterar o ramo. Após isso faremos o passo 5.1 novamente até que todos os arquivos sejam adicionados ao repositório;
+7 - Após todos os arquivos serem adicionados ao seus respectivos ramos, foram feitos dois pull requests para fundir os ramos com o Main;
